@@ -55,8 +55,10 @@ Standardize API for logging, support 2 libraries:
 - [logrus](https://github.com/sirupsen/logrus)
 - [zap](go.uber.org/zap)
 
-#### Request Tracing
+#### Middleware Log Tracing
 - [middleware](https://github.com/core-go/middleware): Log request and response at http middleware, allow to configure dynamic field names
+
+#### Http Client Log Tracing
 - [client](https://github.com/core-go/client): Log request and response at http client, allow to configure dynamic field names
 
 #### Audit Log
