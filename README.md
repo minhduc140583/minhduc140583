@@ -50,6 +50,7 @@ Please visit [core-go/health](https://github.com/core-go/health) and [Microservi
 ![health](https://cdn-images-1.medium.com/max/800/1*NreJfea6tHobxMpiq96PPQ.png)
 
 ### Logging
+Visit [core-go/log](https://github.com/core-go/log) and [Middleware-Log-Tracing](https://www.linkedin.com/pulse/middleware-log-tracing-go-duc-nguyen-uh0pc) for more details.
 #### Providers
 Standardize API for logging, support 2 libraries:
 - [logrus](https://github.com/sirupsen/logrus)
